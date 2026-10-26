@@ -1,0 +1,21 @@
+{
+  "name": "saikai-mv",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Saikai out/saikai.mp4"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.537",
+    "@remotion/cli": "^4.0.537",
+    "@remotion/fonts": "^4.0.537",
+    "@remotion/google-fonts": "^4.0.537",
+    "@remotion/media-utils": "^4.0.537",
+    "@remotion/renderer": "^4.0.537",
+    "@types/react": "^19.1.12",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "remotion": "^4.0.537",
+    "typescript": "^5.9.2"
+  }
+}
