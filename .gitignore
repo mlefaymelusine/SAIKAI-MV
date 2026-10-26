@@ -1,0 +1,11 @@
+node_modules/
+out/
+*.mp4
+*.wav
+*.mp3
+*.ttf
+*.otf
+*.woff2
+**/lyrics.json
+__pycache__/
+.env
